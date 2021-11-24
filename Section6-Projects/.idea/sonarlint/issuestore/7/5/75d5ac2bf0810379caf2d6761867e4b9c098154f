@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÊäëşÿÿÿÿ8Îè™öÒ/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(èøÉ›ùÿÿÿÿ8áşšöÒ/
+…
+java:S1319"jThe type of "numberList" should be an interface such as "List" rather than the implementation "ArrayList".(ÁÖèçúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷¡Ãåúÿÿÿÿ

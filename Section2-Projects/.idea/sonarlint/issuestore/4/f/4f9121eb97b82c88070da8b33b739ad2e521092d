@@ -1,0 +1,7 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "SOM_NUM".(Ò´‡‹
+B
+java:S1481",Remove this unused "SOM_NUM" local variable.(Ò´‡‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¨‡ƒÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºó²Âûÿÿÿÿ8ßŸ¸ÊÒ/

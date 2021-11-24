@@ -1,0 +1,8 @@
+
+\
+java:S1659	"FDeclare "firstName" and all following declarations on a separate line.(ΫΌ”β
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Βέσ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”¬ονύÿÿÿÿ8―ψοαÒ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ϋΐρώÿÿÿÿ8Η§ραÒ/
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(επΧ±ϋÿÿÿÿ8»‹ραÒ/

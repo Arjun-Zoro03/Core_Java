@@ -1,0 +1,52 @@
+
+:
+java:S1659	"$Declare "column" on a separate line.(ù‰£
+=
+java:S1125"'Remove the unnecessary boolean literal.(ÃŒ·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏûµÏ
+<
+java:S1125"'Remove the unnecessary boolean literal.(Œ¨¦Y
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êµ£¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ë„‹úÿÿÿÿ
+<
+java:S1125"'Remove the unnecessary boolean literal.(Œ¨¦Y
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(êµ£¦
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ô°Éùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ëùˆ‚
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¶ªÑİ
+W
+java:S1126H"AReplace this if-then-else statement by a single return statement.(÷†¹Ø
+h
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(øÉ¥Ñ
+2
+java:S3626‚"Remove this redundant jump.(ÉŠ©ƒ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(õÜ˜Şøÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(®°ğşÿÿÿÿ
+b
+java:S1871j"LThis branch's code block is the same as the block for the branch on line 99.(ëâŒ
+b
+java:S1871x"LThis branch's code block is the same as the block for the branch on line 99.(Í§š–
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ñ°Ì„øÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(†Äûùÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(†Äûùÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÀÓ¹µúÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(†Äûùÿÿÿÿ
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(ßêÈ8”šûÒ/
+c
+java:S1192^"HDefine a constant instead of duplicating this literal "Player " 5 times.(ñ°Ì„øÿÿÿÿ
+k
+java:S1192^"PDefine a constant instead of duplicating this literal " is the winner!" 5 times.(ñ°Ì„øÿÿÿÿ
+€
+java:S1319)"eThe type of "board" should be an interface such as "List" rather than the implementation "ArrayList".(œ×ô¾ÿÿÿÿÿ
+€
+java:S1319."eThe type of "board" should be an interface such as "List" rather than the implementation "ArrayList".(÷…£Ïÿÿÿÿÿ
+€
+java:S1319<"eThe type of "board" should be an interface such as "List" rather than the implementation "ArrayList".(äø£ÿÿÿÿÿ
+€
+java:S1319C"eThe type of "board" should be an interface such as "List" rather than the implementation "ArrayList".(Ö²÷ğøÿÿÿÿ
+{
+java:S1319O"eThe type of "board" should be an interface such as "List" rather than the implementation "ArrayList".(øÉ¥Ñ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À˜Š»
